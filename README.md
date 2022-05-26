@@ -1,5 +1,8 @@
 # yodlee-spring
 
-## Credentials Factory
+### Credentials Factory
 
-## Bearer Token
+### Bearer Token
+
+### Register user
+
