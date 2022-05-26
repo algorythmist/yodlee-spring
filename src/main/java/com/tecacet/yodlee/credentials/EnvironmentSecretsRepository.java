@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 public class EnvironmentSecretsRepository implements SecretsRepository {
 
     String YODLEE_CLIENT_ID = "YODLEE_CLIENT_ID";
+
     String YODLEE_SECRET = "YODLEE_SECRET";
 
     String YODLEE_ADMIN = "YODLEE_ADMIN";
